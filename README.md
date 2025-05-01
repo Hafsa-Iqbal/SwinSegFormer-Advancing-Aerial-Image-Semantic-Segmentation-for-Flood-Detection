@@ -43,10 +43,15 @@ This repository contains the **SwinSegFormer** model along with other supported 
 
 ---
 
-## 🤝 Contact
-For any inquiries, feel free to reach out:
-- **Author:** Muhammad Tariq Shaheen
-- **GitHub:** [@Shaheen1998](https://github.com/Shaheen1998)
-- **Email:** mshaheen.msee20seecs@seecs.edu.pk
+## Citation
+@article{shaheen2025swinsegformer,
+  title={SwinSegFormer: Advancing Aerial Image Semantic Segmentation for Flood Detection},
+  author={Shaheen, Muhammad Tariq and Iqbal, Hafsa and Khurshid, Numan and Sadia, Haleema and Saeed, Nasir},
+  journal={IEEE Open Journal of the Computer Society},
+  number={01},
+  pages={1--12},
+  year={2025},
+  publisher={IEEE Computer Society}
+}
 
 🚀 **Happy Coding!** 🚀
